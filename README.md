@@ -31,3 +31,13 @@ mapping out collision areas of the sprite and collisions
 started the meta data too!
 
 
+Hour 6-8:
+
+
+<img width="596" height="164" alt="image" src="https://github.com/user-attachments/assets/077eac35-91a0-4108-bf75-8b8107ec095e" />
+
+
+Changed the background, made the restart button and coded the random adding of the obstacles in the course!
+
+
+
